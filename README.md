@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Desenvolvedor Backend PHP/Laravel | Explorando Node.js📚</p>
+<p align="left">✨ Desenvolvedor Backend PHP/Laravel | Explorando TypeScript📚</p>
 
 ###
 

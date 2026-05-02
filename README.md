@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Sou um Desenvolvedor backend PHP, apaixonado por desafios e dedicado à resolução de problemas.<br>Minha jornada começou com uma graduação em Análise e desenvolvimento de sistemas, e ao longo dos últimos anos, tenho aprimorado minhas habilidades na criação de soluções robustas e eficientes utilizando o framework Laravel.<br>E atualmente estou estudando e me aperfeiçoando em TypeScript </p>
+<p align="left">Olá! Sou um Desenvolvedor PHP, apaixonado por desafios e dedicado à resolução de problemas.<br>Minha jornada começou com uma graduação em Análise e desenvolvimento de sistemas, e ao longo dos últimos anos, tenho aprimorado minhas habilidades na criação de soluções robustas e eficientes utilizando o framework Laravel.<br>E atualmente estou estudando e me aperfeiçoando em TypeScript </p>
 
 ###
 
